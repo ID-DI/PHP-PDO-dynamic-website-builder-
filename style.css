@@ -1,0 +1,64 @@
+.backgorund
+{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+.title
+{
+    position: absolute;
+    top: 25%; 
+    left: 50%; 
+    transform: translate(-50%, -25%);
+    
+}
+.subtitle
+{
+    position: absolute;
+    top: 60%; 
+    left: 50%; 
+    transform: translate(-50%, -60%);
+    
+}
+.backgorund1
+{
+    pointer-events: none;
+    position: relative;
+    width: 100%;
+    height: 75vh;
+    z-index: -1;
+
+}
+.vh-100
+{
+    height: calc(100vh - 56px)!important;
+}
+.img-1
+{
+    background-image: url(./images/1.jpg);
+}
+.img-2
+{
+    background-image: url(./images/2.jpg);
+}
+.img-3
+{
+    background-image: url(./images/3.jpg);
+}
+.c-white 
+{
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 5px 2px #666565;
+}
+.backgorund-form
+{
+    background-color: #dfd9d161;
+}
+
+.hr-color
+{
+   border: 1px solid white;
+}

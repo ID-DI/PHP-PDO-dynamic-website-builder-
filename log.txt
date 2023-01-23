@@ -1,0 +1,4 @@
+2022-05-12 11:44:20SQLSTATE[HY000] [1049] Unknown database 'servicesorproducts'
+2022-05-12 11:48:20SQLSTATE[HY000] [1049] Unknown database 'servicesorproducts'
+2022-05-14 16:53:47SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+2023-01-23 21:11:35SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
